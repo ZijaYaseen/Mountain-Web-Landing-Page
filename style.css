@@ -118,7 +118,7 @@ nav {
 }
 
 .nav__bar {
-  padding: 1rem;
+  padding: 0rem;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -259,7 +259,7 @@ nav {
   top: 0;
   left: 0;
   background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url("assets/feature-bg.jpg");
+    url("assets/featured-bg.jpg");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -405,7 +405,7 @@ nav {
 }
 
 .footer__col img {
-  max-width: 225px;
+  max-width: 200px;
   margin-inline: auto;
   margin-block: 2rem;
 }
